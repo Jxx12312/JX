@@ -1,0 +1,11 @@
+time,device_id,temperature,status
+2026-08-10 15:10:28,device-001,68.36,alarm
+2026-08-10 15:10:28,device-001,32.86,normal
+2026-08-10 15:10:28,device-001,63.0,alarm
+2026-08-10 15:10:28,device-001,34.35,normal
+2026-08-10 15:10:28,device-001,56.67,normal
+2026-08-10 15:10:28,device-001,76.75,alarm
+2026-08-10 15:10:28,device-001,67.92,alarm
+2026-08-10 15:10:28,device-001,73.98,alarm
+2026-08-10 15:10:28,device-001,41.3,normal
+2026-08-10 15:10:28,device-001,49.82,normal
